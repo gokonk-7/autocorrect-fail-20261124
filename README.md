@@ -10,7 +10,7 @@ One line, the funniest autocorrect fail: a proposal text to a fiancée where aut
 
 > I texted my fiancée 'I can't wait to marry you' — autocorrect sent 'I can't wait to bury you'.
 
-The laugh comes from one word: "marry" becomes "bury", and the wrong word lands with maximum shock because of who it is sent to. The slip is instantly clear — the two quoted texts sit side by side — it reads as a real autocorrect disaster rather than a written joke, and it needs no explanation. It steers clear of the worn autocorrect jokes about ducks and typos. One line, 97 characters, well inside the 200-character gate.
+The laugh comes from one word: "marry" becomes "bury", and the wrong word lands with maximum shock because of who it is sent to. The slip is instantly clear — the two quoted texts sit side by side — it reads as a real autocorrect disaster rather than a written joke, and it needs no explanation. It steers clear of the worn autocorrect jokes about ducks and typos. One line, 94 characters, well inside the 200-character gate.
 
 This writes the line to `/output/entry.txt`, validating it first: 1–199 characters, UTF-8 text, a single line.
 

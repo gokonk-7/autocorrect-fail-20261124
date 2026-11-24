@@ -31,7 +31,7 @@ function main(): number {
     console.error("entry must be a single line");
     return 1;
   }
-  if (text !== ENTRY || text.length === 0) {
+  if (text.length === 0) {
     console.error("entry must be non-blank text");
     return 1;
   }
